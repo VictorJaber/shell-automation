@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=macbuntu
+Description=A Simple and Elegant Plymouth that Reflects You
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/macbuntu
+ScriptFile=/usr/share/plymouth/themes/macbuntu/macbuntu.script

@@ -1,0 +1,143 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/administrador/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting LANGUAGE=pt_BR:pt:en
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/administrador
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=administrador
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/administrador/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/administrador
+dbus-update-activation-environment: setting GDM_LANG=pt_BR
+dbus-update-activation-environment: setting HOME=/home/administrador
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=pt_BR.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=administrador
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/administrador/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+[cinnamon-settings-daemon-smartcard] Failed to start: nenhum driver de smartcard adequado pôde ser encontrado
+
+** (csd-color:3370): WARNING **: 11:56:54.358: failed to get edid: unable to get EDID for output
+
+** (csd-color:3370): WARNING **: 11:56:54.386: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+[cinnamon-settings-daemon-smartcard] Failed to start: nenhum driver de smartcard adequado pôde ser encontrado
+Cinnamon warning: Software rendering detected: llvmpipe (LLVM 12.0.0, 128 bits)
+Cjs-Message: 11:56:56.115: Profiler is disabled. Not setting up signals.
+Clutter-Message: 11:56:56.172: Sync method: PRESENTATION TIME
+Cjs-Message: 11:56:56.902: JS LOG: About to start Cinnamon
+Cjs-Message: 11:56:56.919: JS LOG: ACTIVATING SOFTWARE RENDERING
+Cjs-Message: 11:56:56.920: JS LOG: [LookingGlass/error] Cinnamon Software Rendering mode enabled
+
+(nm-applet:3572): libnotify-WARNING **: 11:56:57.347: Failed to connect to proxy
+
+(nm-applet:3572): nm-applet-WARNING **: 11:56:57.349: Failed to show notification: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+Cjs-Message: 11:56:57.542: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 618 ms
+Cjs-Message: 11:56:57.616: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 11:56:57.756: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+Cjs-Message: 11:56:58.513: JS LOG: [LookingGlass/info] loaded at Mon Jul 03 2023 11:56:58 GMT-0300 (Horário Padrão de Brasília)
+Cjs-Message: 11:56:58.513: JS LOG: Cinnamon started at Mon Jul 03 2023 11:56:58 GMT-0300 (Horário Padrão de Brasília)
+Cjs-Message: 11:56:58.599: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Cjs-Message: 11:56:58.599: JS LOG: [LookingGlass/info] NaNms
+Cjs-Message: 11:56:58.599: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+openGL version 4.5 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+cinnamon-session[3150]: WARNING: t+5,94190s: Detected that screensaver has appeared on the bus
+Cjs-Message: 11:56:58.935: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 267 ms
+Cjs-Message: 11:56:58.954: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 11:56:58.961: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 26 ms
+Cjs-Message: 11:56:58.983: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 22 ms
+Cjs-Message: 11:56:58.999: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 16 ms
+St-Message: 11:56:59.018: cogl npot texture sizes SUPPORTED
+Cjs-Message: 11:56:59.032: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 11:56:59.063: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 64 ms
+Cjs-Message: 11:56:59.088: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 24 ms
+Cjs-Message: 11:56:59.146: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 57 ms
+** Message: 11:56:59.253: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 11:56:59.289: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 143 ms
+Cjs-Message: 11:56:59.308: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 19 ms
+Cjs-Message: 11:56:59.416: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 108 ms
+Cjs-Message: 11:56:59.437: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 11:56:59.473: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 56 ms
+Cjs-Message: 11:56:59.486: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.49/org/x/StatusIcon/Icon)
+
+** (csd-power:3369): CRITICAL **: 11:56:59.528: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 11:56:59.557: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 84 ms
+Cjs-Message: 11:56:59.604: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.49/org/x/StatusIcon/Icon)
+Cjs-Message: 11:56:59.615: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 58 ms
+Cjs-Message: 11:56:59.837: JS LOG: Unknown network device type, is 14
+Cjs-Message: 11:57:00.036: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 421 ms
+Cjs-Message: 11:57:00.037: JS LOG: [LookingGlass/info] AppletManager started in 1500 ms
+Cjs-Message: 11:57:00.074: JS LOG: [LookingGlass/info] Cinnamon took 3171 ms to start
+cinnamon-session[3150]: WARNING: t+16,58554s: Playing logout sound '/usr/share/mint-artwork/sounds/logout.ogg'
+cinnamon-session[3150]: WARNING: t+16,70173s: Finished playing logout sound
+cinnamon-session[3150]: WARNING: t+16,70178s: Resuming logout sequence...
+Gdk-Message: 11:57:10.454: csd-keyboard: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.455: csd-cursor: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.456: csd-a11y-settings: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.456: csd-xrandr: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.456: csd-color: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.457: csd-media-keys: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.457: csd-a11y-keyboard: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.457: cinnamon-launcher: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.478: csd-sound: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.486: csd-screensaver-proxy: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.491: csd-automount: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.492: csd-mouse: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.501: csd-orientation: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.501: csd-housekeeping: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.504: csd-xsettings: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.509: csd-background: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.513: csd-wacom: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.518: csd-print-notifications: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.519: evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.529: blueberry-obex-agent.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.540: csd-clipboard: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.545: cinnamon-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.556: cinnamon-killer-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.568: csd-power: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.595: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 11:57:10.665: cinnamon: Fatal IO error 0 (Success) on X server :0.
+
